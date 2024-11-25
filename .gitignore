@@ -1,0 +1,17 @@
+# DotNet Files
+bin/
+obj/
+*.user
+*.suo
+*.swp
+.vscode/
+.idea/
+
+# Rider & JetBrains
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio specific
+.vs/
